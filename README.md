@@ -34,7 +34,7 @@ The raw dataset contained only **event codes and timestamps** — no uptime or d
 | **DAX** | KPI card measures — Connected Hours, Disconnected Hours, Availability % |
 | **Excel** | Raw data source and output format |
 
-> **Note:** SQL was not used directly in this project. Data processing and aggregation were handled entirely in Python (Pandas), which provides equivalent functionality to SQL for this ETL pipeline.
+> 
 
 ---
 
