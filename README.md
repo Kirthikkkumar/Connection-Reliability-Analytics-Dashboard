@@ -1,10 +1,10 @@
-# 📡 Interactive Uptime & Downtime Analysis Dashboard
+#  Interactive Uptime & Downtime Analysis Dashboard
 
 > **An end-to-end Data Analytics project** — from raw WebSocket event logs to an interactive Power BI dashboard that monitors system availability and connection reliability.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes **WebSocket connection and disconnection events** from a real operational dataset to calculate exact uptime and downtime for each session. The processed data is visualized in a Power BI dashboard that gives instant insight into system availability, disconnection patterns, and daily connection trends.
 
@@ -12,7 +12,7 @@ The raw dataset contained only **event codes and timestamps** — no uptime or d
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Calculate exact uptime and downtime from raw connection event logs
 - Identify high downtime periods and disconnection patterns
@@ -22,7 +22,7 @@ The raw dataset contained only **event codes and timestamps** — no uptime or d
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Tool | Purpose |
 |---|---|
@@ -38,7 +38,7 @@ The raw dataset contained only **event codes and timestamps** — no uptime or d
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 | Field | Details |
 |---|---|
@@ -60,7 +60,7 @@ The raw dataset contained only **event codes and timestamps** — no uptime or d
 
 ---
 
-## 🔄 End-to-End Workflow
+##  End-to-End Workflow
 
 ### 1️⃣ Data Processing using Python
 
@@ -188,7 +188,7 @@ DIVIDE(
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 | KPI | Value |
 |---|---|
@@ -204,7 +204,7 @@ DIVIDE(
 
 ---
 
-## 📈 Business Insights
+##  Business Insights
 
 - System maintained **99.89% availability** — above the typical 99.5% SLA target
 - All 89 disconnection events averaged only **16 seconds** each — brief reconnection drops, not major outages
@@ -214,7 +214,7 @@ DIVIDE(
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 | Skill | Tool Used |
 |---|---|
@@ -230,7 +230,7 @@ DIVIDE(
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 uptime-downtime-dashboard/
@@ -253,7 +253,7 @@ uptime-downtime-dashboard/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # 1. Clone the repository
@@ -272,7 +272,7 @@ python scripts/uptime_analysis.py
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Kirthikk Kumar S**
 
